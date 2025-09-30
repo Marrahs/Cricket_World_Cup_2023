@@ -7,7 +7,7 @@ Cricket World Cup 2023 dataset comprises of match-specific details such as Match
 
 ## Tools Used
 1. Jupyter Notebook
-2. Python
+2. Python(Pandas, Numpy, Matplotlib, Seaborn)
 
 ## Methodology
 1. Data extraction and inspection.
