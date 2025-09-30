@@ -18,7 +18,7 @@ Cricket World Cup 2023 dataset comprises of match-specific details such as Match
 ## Key Questions
 1. Which team has the highest win rate in CWC 2023? (Is there a Momentum effect?)
 2. Does winning the toss increse winning chances?
-3. Average runrates of each  team.
+3. Average runrates of each team.
 
 ## Results
 
